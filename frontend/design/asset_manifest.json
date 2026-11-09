@@ -1,0 +1,77 @@
+{
+  "file": "Bdye6gLrK8UTWGNjhzTNez",
+  "screens": {
+    "timeline": "43:866",
+    "camera": "43:975",
+    "preview": "43:1066",
+    "growth": "43:1183",
+    "vaccines": "43:1262"
+  },
+  "assets": [
+    {
+      "screen": "timeline",
+      "sourceName": "imgArcSurface",
+      "file": "assets/figma/timeline_arc_surface.svg"
+    },
+    {
+      "screen": "timeline",
+      "sourceName": "imgMemoryImage1610",
+      "file": "assets/figma/timeline_memory_image1610.svg"
+    },
+    {
+      "screen": "camera",
+      "sourceName": "imgArcSurface",
+      "file": "assets/figma/camera_arc_surface.svg"
+    },
+    {
+      "screen": "camera",
+      "sourceName": "imgMediaIllustration",
+      "file": "assets/figma/camera_media_illustration.svg"
+    },
+    {
+      "screen": "camera",
+      "sourceName": "imgAvatar",
+      "file": "assets/figma/camera_avatar.svg"
+    },
+    {
+      "screen": "camera",
+      "sourceName": "imgRecentThumbnail",
+      "file": "assets/figma/camera_recent_thumbnail.svg"
+    },
+    {
+      "screen": "preview",
+      "sourceName": "imgArcSurface",
+      "file": "assets/figma/preview_arc_surface.svg"
+    },
+    {
+      "screen": "preview",
+      "sourceName": "imgBaby",
+      "file": "assets/figma/preview_baby.svg"
+    },
+    {
+      "screen": "preview",
+      "sourceName": "imgMediaIllustration",
+      "file": "assets/figma/preview_media_illustration.svg"
+    },
+    {
+      "screen": "growth",
+      "sourceName": "imgArcSurface",
+      "file": "assets/figma/growth_arc_surface.svg"
+    },
+    {
+      "screen": "growth",
+      "sourceName": "imgHeightCurve",
+      "file": "assets/figma/growth_height_curve.svg"
+    },
+    {
+      "screen": "growth",
+      "sourceName": "imgWeightCurve",
+      "file": "assets/figma/growth_weight_curve.svg"
+    },
+    {
+      "screen": "vaccines",
+      "sourceName": "imgArcSurface",
+      "file": "assets/figma/vaccines_arc_surface.svg"
+    }
+  ]
+}

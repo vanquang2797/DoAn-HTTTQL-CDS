@@ -1,0 +1,29 @@
+/tmp/
+/.phpunit.cache/
+
+# Local credentials and environment files (keep the example templates)
+/backend/.env
+/backend/.env.*
+!/backend/.env.example
+!/backend/.env.testing.example
+/backend/.rnd
+
+# Local databases, uploads, generated exports and runtime files
+/backend/database/*.sqlite
+/backend/database/*.sqlite-*
+/backend/storage/app/private/
+/backend/storage/logs/*.log
+/backend/bootstrap/cache/*.php
+/backend/vendor/
+
+# Flutter and generated build output
+/frontend/.dart_tool/
+/frontend/build/
+/frontend/.packages
+/frontend/.flutter-plugins
+/frontend/.flutter-plugins-dependencies
+
+# Temporary reviews and local artifacts
+/tmp/
+/tmp/pdfs/
+/frontend/artifacts/
